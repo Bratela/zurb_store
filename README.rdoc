@@ -1,7 +1,8 @@
 == README
 
 Sample web app with Zurb Foundation Style!
+http://foundation.zurb.com/
 
 
 
-<tt>rake doc:app</tt>.
+
