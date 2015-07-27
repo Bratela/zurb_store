@@ -1,7 +1,7 @@
 == README
 
 Sample web app with Zurb Foundation Style!
-http://foundation.zurb.com/
+<h1>http://foundation.zurb.com/</h1>
 
 
 
